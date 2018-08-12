@@ -60,7 +60,7 @@ hit? (total) = newtotal
 display_card_total (newtotal)
 end 
 
-end_game (total)
+end_game (newtotal)
  
 end
     
